@@ -16,22 +16,22 @@ A full-stack Recipe App built with **React (frontend)** + **Node.js/Express (bac
 - Database: MongoDB (local or Atlas)
 
 
-🔧 Setup Instructions
+##🔧 Setup Instructions
 
-1. Clone Repo
+## 1. Clone Repo
 
-git clone https://github.com/Manusha122/RecipeApp.git
-cd recipe-app
+- git clone https://github.com/Manusha122/RecipeApp.git
+- cd recipe-app
 
-2. Backend Setup
+## 2. Backend Setup
 
-cd backend
-npm install
-npm run dev
+- cd backend
+- npm install
+- npm run dev
 
-3. Frontend Setup
+## 3. Frontend Setup
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
