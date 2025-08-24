@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "68a9a066861d802ad6a0c476"
+  },
+  "user": {
+    "$oid": "68a981a315c9656eeb08de00"
+  },
+  "mealId": "52874",
+  "name": "Beef and Mustard Pie",
+  "thumb": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+  "createdAt": {
+    "$date": "2025-08-23T11:05:10.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T11:05:10.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a9ac42861d802ad6a0c4b4"
+  },
+  "user": {
+    "$oid": "68a981a315c9656eeb08de00"
+  },
+  "mealId": "52848",
+  "name": "Bean & Sausage Hotpot",
+  "thumb": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+  "createdAt": {
+    "$date": "2025-08-23T11:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T11:55:46.680Z"
+  },
+  "__v": 0
+}]
